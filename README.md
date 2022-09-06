@@ -1,7 +1,7 @@
 # Stock-price-pridiction
 
 Hello everyone, 
-I have created a new machine learning model which help me to predicts the future closing prices of the Tesla Stock using Linear Regression. Please check it out especially if you are a beginner programmer it help u a lot.
+Stock market prediction and analysis are some of the most difficult jobs to complete. There are numerous causes for this, including market volatility and a variety of other dependent and independent variables that influence the value of a certain stock in the market. These variables make it extremely difficult for any stock market expert to anticipate the rise and fall of the market with great precision.
 
 Thx...
 ...
